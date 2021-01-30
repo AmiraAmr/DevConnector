@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Amira2:amira2@cluster0.tzde1.mongodb.net/MERN?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "bd9e5f54b4796284ab44",
+    "githubSecret": "a3bebdc2da2976e133840eeec3536cdbbedab598"
+}
